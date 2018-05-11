@@ -2,7 +2,7 @@
 
 1. Download the repo from GitHub
 ```
-git clone git@github.com:kristhina/tensorflow-for-poets-2.git
+git clone https://github.com/kristhina/tensorflow-for-poets-2.git
 ```
 2. Change directory to "tensorflow-for-poets-2"
 ```
@@ -51,7 +51,7 @@ I also prepared some more pictures from Internet (you can find them in the folde
   * pattern + product 79,5% final test accuracy
   * pattern 90% final test accuracy
   * product 72,2% final test accuracy
-11. Checked the pictures in my folder "to_check" - results for "pattern" model were the worst. There were not great differences between "pattern+product" and "product" results. The product results were slightly better, but I had only one picture from each decor to check
+11. Checked the pictures in my folder "to_check" - results for "pattern" model were the worstgit status. There were not great differences between "pattern+product" and "product" results. The product results were slightly better, but I had only one picture from each decor to check
 12. Downloaded some picture from the Internet to check my network
 13. Decided to choose the model with "pattern+product":
   * there are more pictures to train the network
